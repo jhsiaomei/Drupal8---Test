@@ -24,7 +24,9 @@
         "drupal/console": "~1.0",
         "drupal/workbench_email": "^1.0@alpha",
         "drupal/media": "1.x-dev",
-        "enyo/dropzone": "^4.3"
+        "enyo/dropzone": "^4.3",
+        "drupal/devel": "^1.0@RC",
+        "drupal/features": "^3.5"
     },
     "require-dev": {
         "behat/mink": "~1.7",
